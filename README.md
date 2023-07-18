@@ -6,7 +6,6 @@ Implemented Join algorithms are used on Waterloo SPARQL Diversity Test Suite (Wa
 - Hash Join
 - Sort-Merge Join
 - Partitioned Parallel Hash Join
-
 # SPARQL Queries
 An example of a SPARQL query on a different dataset:
 
